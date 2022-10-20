@@ -8,7 +8,7 @@ Landing page responsive creada con HTML. Excelente si lo que deseas es mostrar u
 
 ### Capturas de pantalla
 
-![](./assets/img/home.jpg)
+![](./assets/img/home.png)
 
 ---
 
