@@ -2,7 +2,7 @@ Landing page
 
 https://no-fumar.netlify.app/
 
-Landing page responsive creada con HTML. Excelente si lo que deseas es mostrar una breve descripción de tu proyecto o lo que haces.
+Landing page explicando algunas razones por las cuales debemos dejar de fumar.
 
 ---
 
